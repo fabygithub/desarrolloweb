@@ -14,3 +14,22 @@ ________________________________________________________________________________
 
 
 
+<html>
+  <body>
+    <form action = "" target="_blank">
+      <p> Ingresa nombre completo
+            <input type = "text" value="nombre completo">
+        <br>
+       ingresa tu edad <input type = "text" value="edad">
+      
+      <input type = "submit" value="Enviar el formulario">
+        
+        </p>
+    </form>
+  
+  </body>
+</html>
+
+________________________________________________________________________________________
+
+
