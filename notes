@@ -59,6 +59,44 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
+<html>
+  <head>
+    <title> Ejemplo 3</title>
+  </head>
+  <body>
+    <form action = "" target="_blank">
+      Genero:
+      <select name="genero">
+        <option>masculino</option>
+        <option>femenino</option>
+      </select>
+      
+      <p> Ingresa nombre completo 
+            <input type = "text" value="nombre completo">
+       
+        <br>
+             <p> deja un mensaje <br>
+               
+               <textarea name="mensaje">
+                 
+               </textarea>
+              
+               <br>
+      </p>
+        
+       ingresa tu edad <input type = "text" value="edad">
+      <br>
+      
+      <input type = "submit" value="Enviar el formulario">
+        
+        </p>
+    </form>
+  
+  </body>
+</html>
+
+________________________________________________________________________________________________
+
 
 
 
