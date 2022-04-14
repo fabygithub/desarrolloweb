@@ -125,22 +125,23 @@ ________________________________________________________________________________
         
        ingresa tu edad <input type = "text" value="edad">
       <br>
-      
-      <input type = "submit" value="Enviar el formulario">
-        
-        </p>
-    
+       
     
     Selecciona tus intereses : <br>
           <input type = "checkbox" name="peliculas">Peliculas<br>
            <input type = "checkbox" name="peliculas">Deportes<br>
            <input type = "checkbox" name="peliculas">Videojuegos<br>
           
+         <input type = "submit" value="Enviar el formulario">
+        
+        </p>
     
     </form>
   
   </body>
 </html>
+
+
 
 __________________________________________________________________________________________
 
